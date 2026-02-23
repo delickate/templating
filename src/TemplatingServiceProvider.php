@@ -1,6 +1,6 @@
 <?php
 
-namespace Delickate\Templating\Providers;
+namespace Delickate\Templating;
 
 use Illuminate\Support\ServiceProvider;
 
