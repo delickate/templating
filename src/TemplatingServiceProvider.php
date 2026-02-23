@@ -24,7 +24,7 @@ class TemplatingServiceProvider extends ServiceProvider
 
             // Assets
             __DIR__.'/../public/assets'
-                => public_path('public/assets'),
+                => public_path('vendor/templating'),
 
         ], 'templating');
     }
