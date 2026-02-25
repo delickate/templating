@@ -32,3 +32,11 @@ For other pages:
 ```blade
 @extends('layouts.masterTemplatePage')
 ```
+
+To remove package
+
+```bash
+> composer require delickate/templating
+> composer clear-cache
+```
+
