@@ -15,7 +15,7 @@ composer require delickate/templating
 To publish all resources:
 
 ```bash
-php artisan vendor:publish --tag=templating
+php artisan vendor:publish --tag=templating --force
 ```
 
 🧩 Usage
